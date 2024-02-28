@@ -6,7 +6,7 @@ body {
 body {
   --background-primary: #fff;
   --font-color-primary: #333;
-  --elevation-background: #FDF69E;
+  --elevation-background: #f3f3f3;
   --link-color: #006eb8;
   --font-family-primary: 'Roboto', Arial;
   --handwriting-font: 'Homemade Apple', cursive;
@@ -205,7 +205,7 @@ body.dark .github-corner {
 .page-a {
   width: 400px;
   height: calc(11.7 * 400px / 8.3); /* A4 Ratio */
-  background: #fff;
+  background: #FDF69E;
   border: 1px solid var(--elevation-background);
   font-size: 10pt;
   position: relative;
