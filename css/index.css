@@ -4,9 +4,9 @@ body {
   margin: 0px;
 }
 body {
-  --background-primary: #FDF69E;
+  --background-primary: #fff;
   --font-color-primary: #333;
-  --elevation-background: #f3f3f3;
+  --elevation-background: #FDF69E;
   --link-color: #006eb8;
   --font-family-primary: 'Roboto', Arial;
   --handwriting-font: 'Homemade Apple', cursive;
